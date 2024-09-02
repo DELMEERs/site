@@ -1,12 +1,15 @@
-/* Стили для верха */
-.header {
-    background-color: #F1F1F1;
-    text-align: center;
-    padding: 20px;
-    
+.lefttextmain{
+    text-align: right;
+    padding: 14px 16px;
+    color: #f2f2f2;
+
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
 }
-   
-   /* Стили для панели навигации */
+
+/* Стили для панели навигации */
 .topnav {
     overflow: hidden;
     background-color: #333;
@@ -21,6 +24,11 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 20px;
+    font-style: normal;
 }
 .topnav a:hover {
     background-color: #ddd;
