@@ -36,3 +36,18 @@
     text-align: center;
     padding: 10px;
 }
+
+#top_text{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 50px;
+    font-style: normal;
+    /* text-size-adjust: 500px; */
+}
+
+#footer_text{
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
